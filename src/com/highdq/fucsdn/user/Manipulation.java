@@ -19,6 +19,13 @@ public class Manipulation {
 	 */
 	private final static String PAGE_ENCODING = "utf-8";
 	
+	/**
+	 * 使用username作为用户名，password作为密码请求登录到csdn中，如果登录成功，返回CsdnConnection对象，否则返回null。
+	 * 更多的操作将会使用到CsdnConnection对象。
+	 * @param username 用户名
+	 * @param password 密码
+	 * @return 登录成功，返回CsdnConnection对象，否则返回null。
+	 */
 	public static CsdnConnection login(String username, String password) {
 		String requestLoginPage = null;
 		try {
