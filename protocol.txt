@@ -1,0 +1,46 @@
+1.登录
+GET https://passport.csdn.net/ajax/accounthandler.ashx?t=log&u=stltqhs%40163.com&p=962312ltq2008&remember=0&f=http%3A%2F%2Fwww.csdn.net%2F&rand=0.22258039214648306 HTTP/1.1
+Accept:*/*
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:zh-CN,zh;q=0.8
+Connection:keep-alive
+Host:passport.csdn.net
+Referer:https://passport.csdn.net/account/loginbox?callback=logined&hidethird=1&from=http%3a%2f%2fwww.csdn.net%2f
+User-Agent:Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+X-Requested-With:XMLHttpRequest
+=======================================================================
+Cache-Control:no-cache
+Content-Length:521
+Content-Type:application/json; charset=utf-8
+Date:Mon, 10 Feb 2014 09:15:29 GMT
+Expires:-1
+P3P:CP=CAO PSA OUR
+Pragma:no-cache
+Server:Microsoft-IIS/6.0
+Set-Cookie:UserName=stltqhs; domain=csdn.net; path=/
+Set-Cookie:UN=stltqhs; domain=csdn.net; expires=Tue, 10-Feb-2015 09:15:30 GMT; path=/
+Set-Cookie:UserNick=stltqhs; domain=csdn.net; path=/
+Set-Cookie:access-token=dd711fc7-7e1b-4c51-86ea-1103a1613438; domain=csdn.net; path=/
+Set-Cookie:AU=8C0; domain=csdn.net; path=/
+Set-Cookie:UserInfo=k6T2cPfp%2f4JpuUD%2fvL3aXi5Gj8PTYDf7tQIv1%2fJ1gICWVhvXJF%2bi0GWaZbGrKw4Wm2Umlxv5dGv2m%2fNdfAqFLs2VGt98XvTPBIVfKlLPMRYf7xFnLyFCjexIYPeuOtKO; domain=csdn.net; path=/
+X-Author:zhuyi
+
+{"status":true,"error":"","data":{"userId":10670796,"userName":"stltqhs","password":"4dbc21d7e6468570c169b9d56ec87947","email":"stltqhs@163.com","lastLoginTime":"2014-02-10 17:15:30","loginTimes":75,"lastLoginIP":"183.63.172.108","isDeleted":false,"registerIP":"222.242.186.57","registerTime":"2009-08-15 21:43:00","isActived":true,"role":0,"userType":0,"isLocked":false,"encryptUserInfo":"k6T2cPfp/4JpuUD/vL3aXi5Gj8PTYDf7tQIv1/J1gICWVhvXJF+i0GWaZbGrKw4Wm2Umlxv5dGv2m/NdfAqFLs2VGt98XvTPBIVfKlLPMRYf7xFnLyFCjexIYPeuOtKO"}}
+=======================================================================
+上面是登录正确时的请求和响应过程，请求时的参数有：
+t:log
+u:stltqhs@163.com
+p:962312ltq2008
+remember:0
+f:http://www.csdn.net/
+rand:0.22258039214648306
+其中u表示的是用户名，这里是stltqhs@163.com，p表示密码。另外需要说明的是登录页面（与请求登录的页面不同）是：
+https://passport.csdn.net/account/loginbox?callback=logined&hidethird=1&from=http%3a%2f%2fwww.csdn.net%2f。
+参数f应该表示的是登录页面的from参数，登录的方式是使用AJAX的方式，js代码方式login.js中，remember参数表示的是是否记住，0表示否，rand是一个随机生成数，从login.js的源代码（如下所示）：
+var data = "u=" + csdn.val2(u)
+        + "&p=" + csdn.val2(p)
+        + "&remember=" + ($("#chkRemember").attr("checked") ? "1" : "0")
+        + "&f=" + csdn.val2("f")
+        //+ "&enc=1"
+        + "&rand=" + Math.random();
+可以看出rand的值只是调用了Math.random()这个方法。
