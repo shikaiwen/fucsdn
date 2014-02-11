@@ -1,4 +1,4 @@
-1.µÇÂ¼
+1.ç™»å½•
 GET https://passport.csdn.net/ajax/accounthandler.ashx?t=log&u=stltqhs%40163.com&p=962312ltq2008&remember=0&f=http%3A%2F%2Fwww.csdn.net%2F&rand=0.22258039214648306 HTTP/1.1
 Accept:*/*
 Accept-Encoding:gzip,deflate,sdch
@@ -27,20 +27,20 @@ X-Author:zhuyi
 
 {"status":true,"error":"","data":{"userId":10670796,"userName":"stltqhs","password":"4dbc21d7e6468570c169b9d56ec87947","email":"stltqhs@163.com","lastLoginTime":"2014-02-10 17:15:30","loginTimes":75,"lastLoginIP":"183.63.172.108","isDeleted":false,"registerIP":"222.242.186.57","registerTime":"2009-08-15 21:43:00","isActived":true,"role":0,"userType":0,"isLocked":false,"encryptUserInfo":"k6T2cPfp/4JpuUD/vL3aXi5Gj8PTYDf7tQIv1/J1gICWVhvXJF+i0GWaZbGrKw4Wm2Umlxv5dGv2m/NdfAqFLs2VGt98XvTPBIVfKlLPMRYf7xFnLyFCjexIYPeuOtKO"}}
 =======================================================================
-ÉÏÃæÊÇµÇÂ¼ÕıÈ·Ê±µÄÇëÇóºÍÏìÓ¦¹ı³Ì£¬ÇëÇóÊ±µÄ²ÎÊıÓĞ£º
+ä¸Šé¢æ˜¯ç™»å½•æ­£ç¡®æ—¶çš„è¯·æ±‚å’Œå“åº”è¿‡ç¨‹ï¼Œè¯·æ±‚æ—¶çš„å‚æ•°æœ‰ï¼š
 t:log
 u:stltqhs@163.com
 p:962312ltq2008
 remember:0
 f:http://www.csdn.net/
 rand:0.22258039214648306
-ÆäÖĞu±íÊ¾µÄÊÇÓÃ»§Ãû£¬ÕâÀïÊÇstltqhs@163.com£¬p±íÊ¾ÃÜÂë¡£ÁíÍâĞèÒªËµÃ÷µÄÊÇµÇÂ¼Ò³Ãæ£¨ÓëÇëÇóµÇÂ¼µÄÒ³Ãæ²»Í¬£©ÊÇ£º
-https://passport.csdn.net/account/loginbox?callback=logined&hidethird=1&from=http%3a%2f%2fwww.csdn.net%2f¡£
-²ÎÊıfÓ¦¸Ã±íÊ¾µÄÊÇµÇÂ¼Ò³ÃæµÄfrom²ÎÊı£¬µÇÂ¼µÄ·½Ê½ÊÇÊ¹ÓÃAJAXµÄ·½Ê½£¬js´úÂë·½Ê½login.jsÖĞ£¬remember²ÎÊı±íÊ¾µÄÊÇÊÇ·ñ¼Ç×¡£¬0±íÊ¾·ñ£¬randÊÇÒ»¸öËæ»úÉú³ÉÊı£¬´Ólogin.jsµÄÔ´´úÂë£¨ÈçÏÂËùÊ¾£©£º
+å…¶ä¸­uè¡¨ç¤ºçš„æ˜¯ç”¨æˆ·åï¼Œè¿™é‡Œæ˜¯stltqhs@163.comï¼Œpè¡¨ç¤ºå¯†ç ã€‚å¦å¤–éœ€è¦è¯´æ˜çš„æ˜¯ç™»å½•é¡µé¢ï¼ˆä¸è¯·æ±‚ç™»å½•çš„é¡µé¢ä¸åŒï¼‰æ˜¯ï¼š
+https://passport.csdn.net/account/loginbox?callback=logined&hidethird=1&from=http%3a%2f%2fwww.csdn.net%2fã€‚
+å‚æ•°fåº”è¯¥è¡¨ç¤ºçš„æ˜¯ç™»å½•é¡µé¢çš„fromå‚æ•°ï¼Œç™»å½•çš„æ–¹å¼æ˜¯ä½¿ç”¨AJAXçš„æ–¹å¼ï¼Œjsä»£ç æ–¹å¼login.jsä¸­ï¼Œrememberå‚æ•°è¡¨ç¤ºçš„æ˜¯æ˜¯å¦è®°ä½ï¼Œ0è¡¨ç¤ºå¦ï¼Œrandæ˜¯ä¸€ä¸ªéšæœºç”Ÿæˆæ•°ï¼Œä»login.jsçš„æºä»£ç ï¼ˆå¦‚ä¸‹æ‰€ç¤ºï¼‰ï¼š
 var data = "u=" + csdn.val2(u)
         + "&p=" + csdn.val2(p)
         + "&remember=" + ($("#chkRemember").attr("checked") ? "1" : "0")
         + "&f=" + csdn.val2("f")
         //+ "&enc=1"
         + "&rand=" + Math.random();
-¿ÉÒÔ¿´³örandµÄÖµÖ»ÊÇµ÷ÓÃÁËMath.random()Õâ¸ö·½·¨¡£
+å¯ä»¥çœ‹å‡ºrandçš„å€¼åªæ˜¯è°ƒç”¨äº†Math.random()è¿™ä¸ªæ–¹æ³•ã€‚
