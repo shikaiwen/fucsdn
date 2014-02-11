@@ -107,4 +107,11 @@ public class Manipulation {
 		}
 		return connection;
 	}
+	
+	/**
+	 * 
+	 */
+	public static void getDownloadedResources() {
+		
+	}
 }

@@ -1,0 +1,603 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>下载资源 - 我的资源 - 下载频道 - CSDN.NET</title>
+<meta name="description" content="下载资源 - 我的资源 - 下载频道 - CSDN.NET" />
+<meta name="keywords" content="" />
+<meta name="author" content="CSDN" /> 
+<meta name="Copyright" content="CSDN" /> 
+<meta name="baidu-site-verification" content="5qKL5WPafahaSFtZ" />
+<link href="http://csdnimg.cn/www/images/favicon.ico" rel="SHORTCUT ICON" />
+<link href="/css/download.css" rel="stylesheet" type="text/css" />
+<script language='JavaScript' type='text/javascript' src='http://www.csdn.net/ggmm/csdn_ggmm.js'></script>
+
+<!-- test toolbar nav-->
+<link rel="stylesheet" href="http://static.csdn.net/public/common/toolbar/css/index.css">
+<script src="http://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/css/News-nav.css">
+<!-- //toolbar nav -->
+    
+    
+<script language='JavaScript' type='text/javascript' src='http://www.csdn.net/js/jquery-1.4.2.min.js'></script>
+<script language='JavaScript' type='text/javascript' src='http://www.csdn.net/js/jquery.form.js'></script>
+
+
+<!-- 请置于所有广告位代码之前 -->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<!-- 首页页顶 -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+ 
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/1015415/Download_Homepage_728-90_1', [728, 90], 'div-gpt-ad-1363762280442-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+
+<!-- 首页主体中 -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+ 
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/1015415/Download_Homepage_728-90_3', [728, 90], 'div-gpt-ad-1363762981456-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<!-- 下载资源页 页顶 -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+			
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/1015415/Download_inthepage_728-90_1', [728, 90], 'div-gpt-ad-1363848496795-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<!-- 下载地址页 页顶 -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+			
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/1015415/Download_infinalpage_728-90_1', [728, 90], 'div-gpt-ad-1363851923964-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<!-- 资源页 进入下载页下  -->
+	<script type='text/javascript'>
+		var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+				})();
+	</script>
+			 
+	<script type='text/javascript'>
+			googletag.cmd.push(function() {
+			googletag.defineSlot('/1015415/Download_inthepage_300-250_2', [300, 250], 'div-gpt-ad-1363849010976-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			});
+	</script>
+	<!--资源页 最新资讯上 -->
+	<script type='text/javascript'>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+	</script>
+					 
+	<script type='text/javascript'>
+			googletag.cmd.push(function() {
+			googletag.defineSlot('/1015415/Download_inthepage_728-90_4', [728, 90], 'div-gpt-ad-1363849201266-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			});
+	</script>
+	
+	<!--资源页 资源得分上 -->
+	<script type='text/javascript'>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+	</script>
+				 
+			<script type='text/javascript'>
+			googletag.cmd.push(function() {
+			googletag.defineSlot('/1015415/Download_inthepage_728-90_5', [728, 90], 'div-gpt-ad-1363849385391-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			});
+	</script>
+
+
+
+
+<!--下载页 VIP免费积分下载下 -->
+	<script type='text/javascript'>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+	</script>
+					 
+	<script type='text/javascript'>
+			googletag.cmd.push(function() {
+			googletag.defineSlot('/1015415/Download_infinalpage_300-250_2', [300, 250], 'div-gpt-ad-1363852367436-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			});
+	</script>
+	<!--下载页 相关资源上 -->
+	<script type='text/javascript'>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+	</script>
+					 
+	<script type='text/javascript'>
+			googletag.cmd.push(function() {
+			googletag.defineSlot('/1015415/Download_infinalpage_728-90_3', [728, 90], 'div-gpt-ad-1363852069531-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			});
+	</script>
+	
+	<!--下载页 FAQ上 -->
+	<script type='text/javascript'>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+	</script>
+				 
+	<script type='text/javascript'>
+			googletag.cmd.push(function() {
+			googletag.defineSlot('/1015415/Download_infinalpage_728-90_4', [728, 90], 'div-gpt-ad-1363852606776-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			});
+	</script>
+
+<script src="http://counter.csdn.net/a/js/AreaCounter.js" type="text/javascript"></script>
+
+
+
+</head>
+<!-- 高级接口: 可减少JS请求次数，大幅提升广告加载速度，-->
+<!-- 请置于head代码和body代码之间  -->
+<script type="text/javascript">
+
+BAIDU_CLB_preloadSlots("198363","198364");
+</script>
+<script type="text/javascript">BAIDU_CLB_preloadSlots("198886","198894");</script>
+<body>
+<!-- toolbar nav -->
+<script id="toolbar-tpl-scriptId" prod="download" skin="black" src="http://static.csdn.net/public/common/toolbar/js/html.js" type="text/javascript"></script>
+<div class="news-nav">
+    <div class="container clearfix">
+        <div class="nav-bar">
+        	<a href="http://download.csdn.net/" class="current">首页</a>
+        	<a href="http://download.csdn.net/category" >资源分类</a>
+			<a href="http://download.csdn.net/rankings" >排行榜</a>
+			<a href="http://download.csdn.net/help" >帮助</a>
+			<a href="http://download.csdn.net/advanced_search" >高级搜索</a>
+			<a href="http://share.csdn.net" target="_blank">讲义下载</a>  
+        </div>
+	    <div class="search-download">
+        	<form action="http://download.csdn.net/search" method="get" onsubmit="return check_up(this);" name="download_search">
+	        	<input type="text" placeholder="搜索资源" value="" id="tagff" name="q"/>
+	        	<a href="javascript:check_up(download_search);void(0);" class="download-search-bth"></a>
+        	</form>
+	    </div>
+   	</div>
+</div>
+<!-- //toolbar nav -->
+<div id="wrap">
+	<!-- public topnav -->
+	<!-- //public topnav -->
+	<div class="ad_area_1">
+		<div class="ad_w728">
+			<!-- 广告位：下载频道首页头文件上 -->
+						<script type="text/javascript">BAIDU_CLB_fillSlot("198363");</script>				
+					</div>
+		<div class="ad_w220">
+			<!-- 广告位：下载频道首页头文件上  -->
+			<script type="text/javascript">BAIDU_CLB_fillSlot("198364");</script> 
+		</div>
+	</div>
+	<div class="ad_area_1">
+		<div class="ad_w728"><a href="#" target="_blank"><img src="/images/ad_w728_2.jpg" alt="" /></a></div>
+		<div class="ad_w220"><a href="#" target="_blank"><img src="/images/ad_w220_2.jpg" alt="" /></a></div>
+	</div>
+	<!-- breadcrumb navigation -->
+	<div class="way_nav"><a href="/">下载频道</a><em>&gt;</em>我的资源</div>
+	<div class="content">
+		<!-- left area -->
+		<div class="left">
+			<!-- 公告area -->
+     <div class="notify tracking-ad" data-mod="popu_12">              
+				 <a href="http://bbs.csdn.net/topics/390516692">如何下载资源、赚下载分[全攻略]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://bbs.csdn.net/topics/390674613">【推荐】下载频道下半年超人气0分精华资源汇总&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a><br/><a href="http://bbs.csdn.net/topics/390693540">2014年1月微软MVP当选名单揭晓！</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://bbs.csdn.net/topics/390693728">CSDN新版导航上线了！</a>			</div>
+			<!-- left classfiy list -->
+			<div class="bor_box_1 mb_1">
+            <!-- tab -->
+            <div class="tab_1">
+                <a href="/upload" class="btn_download"><img src="/images/upload_small.gif"/></a>
+                <ul>
+                <li ><a href="/my/uploads">上传资源</a></li>
+                <li class="select"><a href="/my/downloads">下载资源</a></li>
+                <li ><a href="/my/favs">收藏</a></li>
+                <li ><a href="/my/score">得分记录</a></li>
+                </ul>
+            </div>
+			<!-- list-->
+			            <dl class="list_1">
+                <dt>
+									<span class="share">
+											<a href="/detail/dcba2435/4394672#comment" class="recom_plese">立即评价，通过可返分</a>　
+					<!--						<a href="#">[分享]</a>-->
+					</span>
+								
+									<a href="/detail/dcba2435/4394672">加密与解密》第一版 crackmes.cjb.net 镜像CFF Crackme #3</a><span class="marks">0</span>
+									</dt>
+                <dd class="tag">标签：
+										<a href="/tag/CFF">CFF</a>
+										<a href="/tag/Crackme">Crackme</a>
+										</dd>
+					<dd>CFF Crackme CFF Crackme 0分啊，方便大家。</dd>
+					<dd class="res_intro">
+						<div class="fr"><span class="uploader">上传者：<a href="/user/dcba2435" class="user_name">dcba2435</a></span><span class="time_upload">上传时间：2012-06-26</span></div>
+						<div class="fl">
+												<span class="time_download">下载时间：2014-02-09</span>
+												<span class="time_download">下载次数：275</span>
+													<span class="classfiy">资源类型：文档</span>
+							
+						</div>
+					</dd>
+            </dl>
+                        <dl class="list_1">
+                <dt>
+									<span class="share">
+											<a href="/detail/wangxiangdong_sl/3885036#comment" class="recom_plese">立即评价，通过可返分</a>　
+					<!--						<a href="#">[分享]</a>-->
+					</span>
+								
+									<a href="/detail/wangxiangdong_sl/3885036">精通黑客编程 pdf</a><span class="marks">0</span>
+									</dt>
+                <dd class="tag">标签：
+										<a href="/tag/%E7%B2%BE%E9%80%9A%E9%BB%91%E5%AE%A2%E7%BC%96%E7%A8%8B_XPGOD.COM.pdf">精通黑客编程_XPGOD.COM.pdf</a>
+										</dd>
+					<dd>精通黑客编程 pdf，使用的编程语言为C++,有兴趣的朋友可以下载。</dd>
+					<dd class="res_intro">
+						<div class="fr"><span class="uploader">上传者：<a href="/user/wangxiangdong_sl" class="user_name">wangxiangdong_sl</a></span><span class="time_upload">上传时间：2011-12-06</span></div>
+						<div class="fl">
+												<span class="time_download">下载时间：2014-01-28</span>
+												<span class="time_download">下载次数：174</span>
+													<span class="classfiy">资源类型：文档</span>
+							
+						</div>
+					</dd>
+            </dl>
+                        <dl class="list_1">
+                <dt>
+									<span class="share">
+											<a href="/detail/maoxiang/6289483#comment" class="recom_plese">立即评价，通过可返分</a>　
+					<!--						<a href="#">[分享]</a>-->
+					</span>
+								
+									<a href="/detail/maoxiang/6289483">flashfirebug 4.69 破解</a><span class="marks">1</span>
+									</dt>
+                <dd class="tag">标签：
+										<a href="/tag/firefox">firefox</a>
+										<a href="/tag/flashfirebug">flashfirebug</a>
+										</dd>
+					<dd>1.选择从本地安装
+2.禁止自动更新
+3.加HOST屏蔽自动发送消息到服务器
+127.0.0.1 www.o-minds.com
+127.0.0.1 extension.o-minds.com
+
+本破解仅供学习和交流之用！
+貌似官方版本的Properties 面板有问题！</dd>
+					<dd class="res_intro">
+						<div class="fr"><span class="uploader">上传者：<a href="/user/maoxiang" class="user_name">maoxiang</a></span><span class="time_upload">上传时间：2013-09-19</span></div>
+						<div class="fl">
+												<span class="time_download">下载时间：2014-01-22</span>
+												<span class="time_download">下载次数：126</span>
+													<span class="classfiy">资源类型：工具类</span>
+							
+						</div>
+					</dd>
+            </dl>
+                        <dl class="list_1">
+                <dt>
+									<span class="share">
+											<a href="/detail/lllkey/6538201#comment" class="recom_plese">立即评价，通过可返分</a>　
+					<!--						<a href="#">[分享]</a>-->
+					</span>
+								
+									<a href="/detail/lllkey/6538201">com.zend.php.core_10.5.0.v20131105-1526.jar</a><span class="marks">0</span>
+									</dt>
+                <dd class="tag">标签：
+										<a href="/tag/zendStudio">zendStudio</a>
+										<a href="/tag/10.5">10.5</a>
+										<a href="/tag/%E7%A0%B4%E8%A7%A3">破解</a>
+										</dd>
+					<dd>zendStudio10.5的破解文件, 需要替换安装文件下的plugins文件下的同名文件</dd>
+					<dd class="res_intro">
+						<div class="fr"><span class="uploader">上传者：<a href="/user/lllkey" class="user_name">lllkey</a></span><span class="time_upload">上传时间：2013-11-12</span></div>
+						<div class="fl">
+												<span class="time_download">下载时间：2014-01-03</span>
+												<span class="time_download">下载次数：680</span>
+													<span class="classfiy">资源类型：其他</span>
+							
+						</div>
+					</dd>
+            </dl>
+                        <dl class="list_1">
+                <dt>
+									<span class="share">
+											<a href="/detail/ghostoyp/309754#comment" class="recom_plese">立即评价，通过可返分</a>　
+					<!--						<a href="#">[分享]</a>-->
+					</span>
+								
+									<a href="/detail/ghostoyp/309754">Visual studio 2008 team suit英文正式版BT种子</a><span class="marks">0</span>
+									</dt>
+                <dd class="tag">标签：
+										<a href="/tag/2008">2008</a>
+										<a href="/tag/studio">studio</a>
+										<a href="/tag/studio%2C2008%2C.net%2CVisual">studio,2008,.net,Visual</a>
+										<a href="/tag/team">team</a>
+										<a href="/tag/Visual">Visual</a>
+										</dd>
+					<dd>Visual studio 2008 team suit英文正式版0day &lt;br&gt;这个版本和MSDN上提供的90days-trial是不同的版本.&lt;br&gt;顺便说两句0day，在这个地下世界中比较著名的破解组织，ZWT肯定是榜上有名，贡献了无数软件（包括OS、IDE、等等），据说其前��</dd>
+					<dd class="res_intro">
+						<div class="fr"><span class="uploader">上传者：<a href="/user/ghostoyp" class="user_name">ghostoyp</a></span><span class="time_upload">上传时间：2007-12-16</span></div>
+						<div class="fl">
+												<span class="time_download">下载时间：2013-11-21</span>
+												<span class="time_download">下载次数：652</span>
+							
+						</div>
+					</dd>
+            </dl>
+                        <dl class="list_1">
+                <dt>
+									<span class="share">
+					<span class="recom">已评价</span>
+					<!--						<a href="#">[分享]</a>-->
+					</span>
+								
+									<a href="/detail/lhsd90l0112/5152454">163邮箱密码破解软件</a><span class="marks">0</span>
+									</dt>
+                <dd class="tag">标签：
+										<a href="/tag/163%E9%82%AE%E7%AE%B1%E7%A0%B4%E8%A7%A3">163邮箱破解</a>
+										<a href="/tag/%E9%82%AE%E7%AE%B1%E7%A0%B4%E8%A7%A3">邮箱破解</a>
+										</dd>
+					<dd>下载这必须正确使用此软件，如因使用本软件违反网络安全，后果自负，此程序不单单只针对163邮箱，对于其他任何的邮箱解密同样有效，包括企业邮箱密码破解 ----  gmail邮箱密码破解----- hotmail邮箱密码破解 126邮箱密码破解 163</dd>
+					<dd class="res_intro">
+						<div class="fr"><span class="uploader">上传者：<a href="/user/lhsd90l0112" class="user_name">lhsd90l0112</a></span><span class="time_upload">上传时间：2013-03-18</span></div>
+						<div class="fl">
+												<span class="time_download">下载时间：2013-09-17</span>
+												<span class="time_download">下载次数：735</span>
+													<span class="classfiy">资源类型：工具类</span>
+							
+						</div>
+					</dd>
+            </dl>
+            
+    <!-- page nav -->
+				<div class="page_nav">
+					共26个  &nbsp; 共5页&nbsp;<strong>1</strong>&nbsp;<a class="pageliststy" href="/my/downloads/2">2</a>&nbsp;<a class="pageliststy" href="/my/downloads/3">3</a>&nbsp;<a class="pageliststy" href="/my/downloads/4">4</a>&nbsp;<a class="pageliststy" href="/my/downloads/5">5</a>&nbsp;<a class="pageliststy" href="/my/downloads/2">下一页</a>&nbsp;				</div>
+				
+		  </div>
+		</div>
+		<!-- right area -->
+		<!-- right area -->
+		<div class="right">
+        <!--my medal-->
+        <div class="bor_box_2">
+        <dl class="medal_img">
+        <dt><a href="http://my.csdn.net" target="_blank"><img src="http://avatar.csdn.net/8/C/0/2_stltqhs.jpg" width="100" height="100" /></a></dt>
+        <dd><a href="http://my.csdn.net" target="_blank" class="user_name">stltqhs</a></dd>
+        <dd><img id="scorePic" alt="等级：1" src="/images/gradeicons/1.gif"></dd>
+        </dl>
+     	<!-- 
+        <h2 class="tit_2">我的勋章 </h2>
+        <div class="medal_box">
+        	<img src="/images/medal_1.gif" width="32" height="32" />
+        	<img src="/images/medal_2.gif" width="32" height="32" />
+        	<img src="/images/medal_3.gif" width="32" height="32" />
+        </div>
+         -->
+        <ul class=" medal_text_1">
+				<li>积分： 4</li>
+				<li>上传资源： <span> 0</span></li>
+				<li>下载资源： <span> 26</span></li>
+								<li>总&nbsp; 排 &nbsp;名：第 <span>19747321</span>名</li>
+				                <li>&nbsp;</li>
+				<li>上传权限： <span>50MB</span></li>
+													<li>提示：再增加<span>496</span>下载积分，上传权限即可升级到<span>60MB</span>。</li>
+						  </ul>
+        </div>
+			
+			<!-- my tag -->
+			<div class="bor_box_2">
+				<h2 class="tit_2">我的Tag</h2>
+			  <ul class="my_tag">
+								</ul>
+			</div>
+
+		</div>
+		<script src="http://static.blog.csdn.net/scripts/cnick.js?v=1.1" type="text/javascript"></script>  </div>
+ 
+<script type="text/javascript">
+function cancel_fav(sourcename,id)
+{
+	if(confirm("您确定要取消对"+sourcename+"的收藏吗？"))
+	{
+		$.get("/index.php/favorite/cancel_fav/" + id,function(data){
+			data = eval('('+data+')');
+			alert(data.msg);
+			window.location.reload();
+		}); 
+	}
+}
+
+function del_my_src(id)
+{
+	if(confirm("一旦删除将不可恢复，您确定要删除吗？"))
+	{
+		$.get("/index.php/user_console/del_my_source/"+ id ,function(ret){
+			ret = eval('('+ret+')');
+			if(ret.succ == 0){
+				alert(ret.msg);
+			}else{
+				alert('成功');
+				window.location.reload();
+			}
+		});
+	}	
+
+}
+
+</script>
+<!-- 计数  -->
+<script type="text/javascript">document.write("<img src=http://counter.csdn.net/pv.aspx?id=161 border=0 width=0 height=0>");</script>
+	<!-- public footer -->
+	<script type="text/javascript" src="http://www.csdn.net/ui/scripts/Csdn/counter.js"></script>
+	<script type="text/javascript">
+		document.write('<script type="text/javascript" src="http://csdnimg.cn/pubfooter/js/publib_footer.js?' + Math.floor(new Date()/120000).toString(36) + '="></'+'script>');
+	</script>
+	<script type="text/javascript" src="http://ad.csdn.net/scripts/ad-download.js"></script>
+	
+	<!-- //public footer -->
+</div>
+<script type="text/javascript">
+
+	function setTab(m,n){
+		var tli=document.getElementById("menu"+m).getElementsByTagName("a");
+		var mli=document.getElementById("main"+m).getElementsByTagName("ul");
+		for(i=0;i<tli.length;i++){
+			tli[i].className=i==n?"current1 current2":"";
+			mli[i].style.display=i==n?"block":"none";
+		}
+	}
+
+	function check_up(thisform){
+		var key=$.trim(thisform.q.value);
+		if(key==""){
+			alert("关键字不能为空！");
+		}
+		else{
+			//key=key.replace(/\+/g,"%2B").replace(/\//g,"%2F");
+			key =  encodeURIComponent(key)
+			var url="http://download.csdn.net/search?q="+key;
+			window.location.href=url;
+		}
+		return false;
+	}
+
+</script>
+
+<script id="csdn-toolbar-id" btnId="header_notice_num" wrapId="note1" count="5" subCount="5" type="text/javascript" src="http://static.csdn.net/public/common/toolbar/js/toolbar.js"></script>
+ 
+
+</body>
+</html>
