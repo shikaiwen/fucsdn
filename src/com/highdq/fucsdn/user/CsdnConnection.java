@@ -6,5 +6,5 @@ package com.highdq.fucsdn.user;
  *
  */
 public class CsdnConnection {
-
+	
 }
