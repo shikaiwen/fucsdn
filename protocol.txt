@@ -44,6 +44,7 @@ var data = "u=" + csdn.val2(u)
         //+ "&enc=1"
         + "&rand=" + Math.random();
 可以看出rand的值只是调用了Math.random()这个方法。
+=======================================================================
 2.列举下载资源
 GET http://download.csdn.net/my/downloads HTTP/1.1
 Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
